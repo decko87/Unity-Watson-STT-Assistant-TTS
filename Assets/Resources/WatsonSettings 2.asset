@@ -16,7 +16,7 @@ MonoBehaviour:
   serviceUrl: 
   versionDate: 2020-09-24
   assistantId: 
-  tts_apikey: 
-  tts_serviceUrl: 
-  stt_apikey: 
-  stt_serviceUrl: 
+  tts_apikey: CbZu54zWugwKJIvbaFuV7I8QZdnJIzgpfPlyU3nO-Za8
+  tts_serviceUrl: https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/10817744-bceb-4d7a-be1a-c3ff2091a730
+  stt_apikey: 033Hj6ffCdeCXWJGAYhvij0evZDFXg3GaFdW4jne5lys
+  stt_serviceUrl: https://api.us-east.speech-to-text.watson.cloud.ibm.com/instances/2ad48683-040d-488b-9e92-57f9fa8219f7
